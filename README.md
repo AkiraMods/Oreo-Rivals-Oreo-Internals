@@ -37,9 +37,9 @@
 - Auto-Bodyshot(options: set headshot % to stay below)
 - Snapline indicators (color, thickness)
 
-━━━━━━━━━━━━━━━
-👁 VISUAL ESP
-━━━━━━━━━━━━━━━
+
+### 👁 VISUAL ESP
+
 - Player/Team ESP 
 - Boxes (2D, 3D, Corners)
 - Box UI (options: Distance, hero names, HP%, Ult charge bars)
@@ -51,9 +51,9 @@
 - Health/Ult/Outline color coding
 - Distance-based clarity fade
 
-━━━━━━━━━━━━━━━
-⚡ EXTRA FEATURES
-━━━━━━━━━━━━━━━
+
+### ⚡ EXTRA FEATURES
+
 - Spinbot (options: spin speed)
 - Rapid fire (options: Rate of Fire)
 - Player FOV Adjustment 
@@ -66,25 +66,25 @@
 - Panic key
 - Bunnyhop
 
-━━━━━━━━━━━━━━━
-🎭 SKIN CHANGER
-━━━━━━━━━━━━━━━
+
+### 🎭 SKIN CHANGER
+
 - All heroes
 - All Skins
 - Live preview
 - Save favorites
 - Instant switch(changes on apply in game)
 
-━━━━━━━━━━━━━━━
-💻 System Options
-━━━━━━━━━━━━━━━
+
+### 💻 System Options
+
 - Menu Rendering FPS(30,60,120,144,Unlimited)
 - Uninject
 - Config Saves
 - More
 
-━━━━━━━━━━━━━━━
-🎨 THEMES & UI
-━━━━━━━━━━━━━━━
+
+### 🎨 THEMES & UI
+
 - 7 professional themes: Glass Purple, Cyberpunk Blue, Matrix Green, Mono White, Sunset Orange, Ocean Teal, Blood Red
 - Safe font system + sizing / animations
