@@ -5,7 +5,7 @@ Cheese for Rivals, Made by Reo. UC come here!
 # https://discord.gg/yVAEKACpdq
 
 ###
-🟣 OREO RIVALS — FULL FEATURE LIST
+# 🟣 OREO RIVALS — FULL FEATURE LIST
 
 ━━━━━━━━━━━━━━━
 🎯 AIMBOT SYSTEM
