@@ -31,7 +31,7 @@
 - Dynamic Aim Adjustment System + separate settings for distance/moving speed
 - Aim Y-Axis offset
 - Aim Delay
-- Target lock modes: Off / Switch(Lock until out of FOV) / Unlock(Manual Target Switching) / Focus(Hard Lock Target)
+- Target lock modes: Off / Switch(Lock until out of FOV) / Unlock(Manual Target Switching) / Focus(Hard Lock)
 - Hitbox select: Head / Chest / Neck / Pelvis / Hands
 - Bone Randomizer(options: time increments slider)
 - Auto-Bodyshot(options: set headshot % to stay below)
