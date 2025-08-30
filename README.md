@@ -82,7 +82,8 @@ Cheese for Rivals, Made by Reo. UC come here!
 - Menu Rendering FPS(30,60,120,144,Unlimited)
 - Uninject
 - Config Saves
-- + More
+- More
+
 ━━━━━━━━━━━━━━━
 🎨 THEMES & UI
 ━━━━━━━━━━━━━━━
