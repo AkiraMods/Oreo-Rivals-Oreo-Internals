@@ -6,9 +6,9 @@
 ###
 # 🟣 OREO RIVALS — FULL FEATURE LIST
 
-━━━━━━━━━━━━━━━
-#### 🎯 AIMBOT SYSTEM
-━━━━━━━━━━━━━━━
+
+### 🎯 AIMBOT SYSTEM
+
 - Preset Modes: Off / Normal / Legit / Rage
 - Hotkey bind
 - FOV circle (size/color)
