@@ -1,4 +1,4 @@
-# Oreo-Rivals-Oreo-Internals
+# OREO RIVALS / OREO INTERNALS
 ### Cheese for Rivals, Made by Reo. UC come here!
 ### THIS PAGE EXISTS TO HELP UC USERS FIND THE UPDATED OREO INTERNAL
 ### https://discord.gg/yVAEKACpdq
