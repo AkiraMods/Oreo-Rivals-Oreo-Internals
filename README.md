@@ -11,7 +11,9 @@ Cheese for Rivals, Made by Reo. UC come here!
 🎯 AIMBOT SYSTEM
 ━━━━━━━━━━━━━━━
 • Modes: Off / Normal / Legit / Rage
+
 • Hotkey bind • FOV circle (size/color 1-50)
+
 • Aim speed 1-100 • Max distance 10-500m
 • Team targeting (Enemies / Allies / Both)
 • Visibility + stealth hero targeting (Psylocke, IW, Loki)
