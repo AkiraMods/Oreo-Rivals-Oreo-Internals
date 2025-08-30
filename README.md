@@ -10,52 +10,79 @@ Cheese for Rivals, Made by Reo. UC come here!
 ━━━━━━━━━━━━━━━
 🎯 AIMBOT SYSTEM
 ━━━━━━━━━━━━━━━
-- Modes: Off / Normal / Legit / Rage
-- Hotkey bind • FOV circle (size/color 1-50)
-- Aim speed 1-100 • Max distance 10-500m
-- Team targeting (Enemies / Allies / Both)
-- Visibility + stealth hero targeting (Psylocke, IW, Loki)
-- Role filters: Vanguards / Duelists / Strategists
-- Flying target first • Adaptive FOV (support mode)
-- Priority: HP / FOV / Distance • Prediction + projectile speed 1k-25k
-- Silent aim (separate FOV + hotkey)
-- Bullet TP (instant hits + hotkey)
-- Triggerbot (delay 0-500ms, hold 50-1000ms, radius 5-50px)
-- Healbot (Heal / Heal+Attack, auto click, 3-20m range)
-- Humanizer (0-30) • Gradual aim • Gravity 0.1-1.0
-- Adaptive speed multipliers (close/far/moving)
-- Aim offset -100/+100 • Delay 10-200ms
-- Target lock modes: Off / Switch / Unlock / Focus
+- Preset Modes: Off / Normal / Legit / Rage
+- Hotkey bind
+- FOV circle (size/color)
+- Aim speed/Smoothing
+- Range Setting
+- Team targeting (options: Enemies / Allies / Both)
+- Visual check + invisible hero targeting (Psylocke, IW, Loki)
+- Role targeting filters: Vanguard / Duelist / Strategist
+- Flying enemy priority
+- Adaptive FOV 
+- Target Priority: Least HP / FOV / Distance 
+- Prediction System
+- Silent aim (optional hotkey and separate FOV)
+- Bullet TP (instant hit + optional hotkey)
+- Triggerbot (options: delay, button hold, radius)
+- Healbot (options: Heal / Heal+Attack, auto click, range)
+- Aim Humanizer 
+- Gradual aim 
+- Aim Gravity
+- Dynamic Aim Adjustment System + separate settings for distance/moving speed
+- Aim Y-Axis offset
+- Aim Delay
+- Target lock modes: Off / Switch(Lock until out of FOV) / Unlock(Manual Target Switching) / Focus(Hard Lock Target)
 - Hitbox select: Head / Chest / Neck / Pelvis / Hands
-- Random bone timer 0.5-10s • Headshot chance 0-100%
+- Bone Randomizer(options: time increments slider)
+- Auto-Bodyshot(options: set headshot % to stay below)
 - Snapline indicators (color, thickness)
 
 ━━━━━━━━━━━━━━━
 👁 VISUAL ESP
 ━━━━━━━━━━━━━━━
-- Player/Team ESP • Boxes (2D, 3D, Cornered)
-- Distance, hero names, HP%, Ult charge bars
-- Skeleton ESP • Tracers • Head dots
-- 2D radar (custom position/size)
+- Player/Team ESP 
+- Boxes (2D, 3D, Corners)
+- Box UI (options: Distance, hero names, HP%, Ult charge bars)
+- Skeleton ESP 
+- Tracers 
+- Head dots
+- 2D radar (options: position/size)
 - Full RGB & alpha control on all visuals
 - Health/Ult/Outline color coding
-- Distance-based fade for clarity
+- Distance-based clarity fade
 
 ━━━━━━━━━━━━━━━
 ⚡ EXTRA FEATURES
 ━━━━━━━━━━━━━━━
-- Spinbot (speed control) • Rapid fire
-- FOV changer (60-180°) • Time dilation (global/self)
-- No recoil / No spread • Small person mode
-- Hide local player • Stream proof
-- Panic key And Bunnyhopping
+- Spinbot (options: spin speed)
+- Rapid fire (options: Rate of Fire)
+- Player FOV Adjustment 
+- Personal Time Dilation
+- Global Time Dilation 
+- No recoil / No spread
+- Hero Shrink
+- Invisible Hero(local)
+- Stream proof
+- Panic key
+- Bunnyhop
 
 ━━━━━━━━━━━━━━━
 🎭 SKIN CHANGER
 ━━━━━━━━━━━━━━━
-- All heroes & skins unlocked
-- Live preview • Save favorites • Instant switch
+- All heroes
+- All Skins
+- Live preview
+- Save favorites
+- Instant switch(changes on apply in game)
 
+━━━━━━━━━━━━━━━
+💻 System Options
+━━━━━━━━━━━━━━━
+- Menu Rendering FPS(30,60,120,144,Unlimited)
+- Uninject
+- Config Saves
+- + More
 ━━━━━━━━━━━━━━━
 🎨 THEMES & UI
 ━━━━━━━━━━━━━━━
