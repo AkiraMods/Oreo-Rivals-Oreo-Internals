@@ -1,27 +1,3 @@
-
-jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
-      - name: Inject Google Site Verification Meta Tag
-        run: |
-          META_TAG='<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />'
-          find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
-<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />
-<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />
-<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />
-
 # OREO RIVALS / OREO INTERNALS
 ### Cheese for Rivals, Made by Reo. UC come here!
 ### THIS PAGE EXISTS TO HELP UC USERS FIND THE UPDATED OREO INTERNAL
@@ -110,45 +86,6 @@ jobs:
 
 
 ### 🎨 THEMES & UI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###
-Keywords, Marvel, Marvel Rivals, Rivals, Internal, Cheat, Hack, Aimbot, ESP, UnknownCheats, UnknownCheats.com, Cheat Menu, Injection, FPS Hacks, Shooter Cheats, FPS, Shooter
 - 7 professional themes: Glass Purple, Cyberpunk Blue, Matrix Green, Mono White, Sunset Orange, Ocean Teal, Blood Red
 - Safe font system + sizing / animations
 
-jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
-      - name: Inject Google Site Verification Meta Tag
-        run: |
-          META_TAG='<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />'
-          find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
-<meta name="google-site-verification" content="R29mMwb6imsLfAEe5GqqIlLGIBmqbs1tGDIthGdX8Zk" />
