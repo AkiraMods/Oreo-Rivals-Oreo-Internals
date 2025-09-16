@@ -1,6 +1,6 @@
 # OREO RIVALS / OREO INTERNALS <meta name="google-site-verification" content="Rn5yH1Yomut6zGAD36Me64VdEH3nK_7cBzX-xI7mf7c" />
 ###
-### https://discord.gg/yVAEKACpdq
+###
 ## 
 <meta name="google-site-verification" content="Rn5yH1Yomut6zGAD36Me64VdEH3nK_7cBzX-xI7mf7c" />
 
@@ -87,3 +87,4 @@
 - 7 professional themes: Glass Purple, Cyberpunk Blue, Matrix Green, Mono White, Sunset Orange, Ocean Teal, Blood Red
 - Safe font system + sizing / animations
 
+ https://discord.gg/yVAEKACpdq
